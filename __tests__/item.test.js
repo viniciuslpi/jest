@@ -11,7 +11,6 @@ describe('Item tests', () => {
 
     it('Should return the price equals to quantity', () => {
         const item = new Item('Batata', 0.1, 3);
-
         expect(item.pegaValorTotalItem()).toBeCloseTo(0.3);
     })
 })

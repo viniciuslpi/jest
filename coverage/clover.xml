@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1671538008691" clover="3.2.0">
-  <project timestamp="1671538008691" name="All files">
-    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="4" coveredelements="4" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
-    <file name="index.js" path="C:\Users\vinicius.pimentel\Documents\cursos-alura\jest\index.js">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <line num="1" count="2" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
-    </file>
+<coverage generated="1671540618372" clover="3.2.0">
+  <project timestamp="1671540618372" name="All files">
+    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
   </project>
 </coverage>
